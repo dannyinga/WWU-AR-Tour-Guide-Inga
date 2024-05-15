@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- UNCOMMENT WHEN BILLING HAS BEEN ENABLED BY SEE-MONG
+    <string name="GoogleApiKey">AIzaSyDl6MWE0bYqUkBFnPPoPgf6mQ5Mlmhwa5c</string>-->
+    <string name="GoogleApiKey">AIzaSyDBHKXCfxJD3FvxCbe3cPkMq2JcIcKuNGQ</string>
+</resources>
